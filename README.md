@@ -20,4 +20,4 @@ Record of task execution and completion alongwith code and dataset details
   1. Mean Absoulte Error
   2. Mean Square Error
   3. R2 Score
-* User input fpr prediction: **Number of hours in float format**
+* User input fpr prediction: **Number of hours in float data-type**
