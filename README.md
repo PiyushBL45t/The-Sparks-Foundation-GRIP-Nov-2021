@@ -30,7 +30,7 @@ Record of task execution and completion alongwith code and dataset details
   1. Pandas 
   2. Matplotlib 
   3. Numpy
-* Read the dataset using this link: http://bit.ly/w-data
+* Read and download the dataset using this link: 'https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view'
 * Environment: **Anaconda**
 * Integrated Development Environment: **Jupyter Notebooks**
 
