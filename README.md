@@ -20,4 +20,21 @@ Record of task execution and completion alongwith code and dataset details
   1. Mean Absoulte Error
   2. Mean Square Error
   3. R2 Score
-* User input fpr prediction: **Number of hours in float data-type**
+* User input for prediction: **Number of hours in float data-type**
+
+## Task No: 2 Prediction using Unsupervised Machine Learning
+### Topic: From the given 'iris-dataset ' find the optimum number of clusters and represent it visually
+
+#### Code details
+* Libraries used: 
+  1. Pandas 
+  2. Matplotlib 
+  3. Numpy
+* Read the dataset using this link: http://bit.ly/w-data
+* Environment: **Anaconda**
+* Integrated Development Environment: **Jupyter Notebooks**
+
+#### Techniques used
+* #### Algorithm: **K-Means clustering algorithm**
+* User input for prediction: **Different species of plants for the plotting the clusters and centroids**
+
